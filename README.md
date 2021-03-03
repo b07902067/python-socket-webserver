@@ -13,6 +13,7 @@ $ git clone ...
 $ python phase2.py
 ```
 - (我的)線上網站 : http://18.216.30.137:8000/
+  - 情況允許的話，務必使用 chrome 開啟。
 
 
 ### 實作(待補)
@@ -27,6 +28,7 @@ $ python phase2.py
   - 使用 pickle 將此 dictionary 存進檔案中，方便記錄以前的留言
   
 ### 範例(待補)
+### 困難以及未來發展(待補)
 
 ### 參考
 - https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Headers (http header 的參考)
