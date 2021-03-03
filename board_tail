@@ -1,0 +1,39 @@
+</ul>
+</div>
+</div>
+<div id="banner"><a href="https://www.youtube.com/channel/UCpGk56cJDZcVqIxZatX7nbQ"><img src="https://media1.tenor.com/images/e8137fe320d23ab82b1591b048e50fce/tenor.gif?itemid=15891357" width="700" height="400" alt="" /></a></div>
+<div id="header-wrapper">
+<div id="header">
+    <div id="logo">
+        <h1>Message<span>Board</span></h1>
+        <p>Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
+    </div>
+</div>
+</div>
+<div id="wrapper"> 
+<div id="page">
+    <div id="page-bgtop">
+        <div id="page-bgbtm">
+            <div id="sidebar">
+                <ul>
+                    <li>
+                        <h2>Leave Some Message Here:</h2>
+                        <div id="search" >
+                            <form action="" method="post" accept-charset="UTF-8">
+                                    <input type="text" name="s" id="search-text" value="">
+                                    <input type="submit" id="search-submit" value="comment">
+                            </form>
+                        </div>
+                        <div style="clear: both;">&nbsp;</div>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div id="content">
+                <div class="post">
+                    <h3 class="title">Post by Server</h2>
+                    <div class="entry">
+                        <h4>Try to leave something in the sidebar.</h4>
+                        <h4>Hope you can have fun Here!</h4>						
+                    </div>
+                </div>
