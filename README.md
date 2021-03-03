@@ -9,7 +9,8 @@
 ### 運行
 - 本機測試 : 運行下列指令後，以瀏覽器搜尋 http://127.0.0.1:8000/
 ```cpp=
-$ git clone ...
+$ git clone https://github.com/b07902067/python_socket_webserver.git
+$ cd python_socket_webserver
 $ python phase2.py
 ```
 - (我的)線上網站 : http://18.216.30.137:8000/
