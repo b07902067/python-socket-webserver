@@ -6,6 +6,15 @@
 - 登入/登出
 - 留言板
 
+### 運行
+- 本機測試 : 運行下列指令後，以瀏覽器搜尋 http://127.0.0.1:8000/
+```cpp=
+$ git clone ...
+$ python phase2.py
+```
+- (我的)線上網站 : http://18.216.30.137:8000/
+
+
 ### 實作(待補)
 使用 python 的 socket 套件，以 socket 將 html 及 css 等檔案傳輸給瀏覽器以建立網頁。
 - 登入/登出
@@ -18,3 +27,7 @@
   - 使用 pickle 將此 dictionary 存進檔案中，方便記錄以前的留言
   
 ### 範例(待補)
+
+### 參考
+- https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Headers (http header 的參考)
+- https://medium.com/@trista_liu/2018年最好用的20個bootstrap網站模板-e99772f8ae38 （bootstrap profile 模板）
